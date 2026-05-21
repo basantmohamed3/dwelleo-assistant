@@ -3,7 +3,7 @@
     "question": "What's the difference between the Starter and Professional plans?",
     "expected": "answered",
     "actual_intent": "normal",
-    "answer": "The Starter plan is priced at $49/month and is suitable for independent agents managing a small portfolio, allowing up to 25 active listings, providing basic AI price prediction (10 predictions per month), priority email support, and access to the mobile agent app. \n\nIn contrast, the Professional plan costs $149/month and is designed for active agents and small agencies. It includes up to 150 active listings, unlimited AI price predictions, AI listing scoring (100 scores per month), advanced analytics, lead routing tools, and 500 wallet credits included monthly, along with priority chat support during business hours.",
+    "answer": "The Starter plan, priced at $49/month, is designed for independent agents managing a small portfolio and includes up to 25 active listings, basic AI price prediction (10 predictions per month), priority email support, and access to the mobile agent app. \n\nIn contrast, the Professional plan, which costs $149/month, is aimed at active agents and small agencies. It allows for up to 150 active listings, offers unlimited AI price predictions, includes AI listing scoring (100 scores per month), advanced analytics, lead routing tools, and provides 500 wallet credits monthly. Additionally, priority chat support is available during business hours for Professional plan subscribers.",
     "status": "\u2705 PASS",
     "ticket_created": false
   },
@@ -11,7 +11,7 @@
     "question": "Can I get a refund if I cancel after 30 days?",
     "expected": "answered",
     "actual_intent": "normal",
-    "answer": "No, you cannot get a refund if you cancel after 30 days. Annual plans are non-refundable after 60 days, and for monthly plans, cancellations made after the standard 14-day window are also not eligible for refunds.",
+    "answer": "No, you cannot get a refund if you cancel after 30 days. Annual plans are non-refundable after the first 60 days, and monthly plans do not allow refunds for cancellations made after the standard 14-day window.",
     "status": "\u2705 PASS",
     "ticket_created": false
   },
@@ -51,7 +51,7 @@
     "question": "What is included in the Enterprise plan?",
     "expected": "answered",
     "actual_intent": "normal",
-    "answer": "The Enterprise plan includes unlimited listings, unlimited AI features, dedicated account management, custom integrations (CRM, ERP), SSO support, and a service-level agreement with a 99.9% uptime guarantee. For a custom quote, you can contact sales@dwelleo.com.",
+    "answer": "The Enterprise plan includes unlimited listings, unlimited AI features, dedicated account management, custom integrations (CRM, ERP), SSO support, and a service-level agreement with a 99.9% uptime guarantee. For custom pricing, you can contact sales@dwelleo.com.",
     "status": "\u2705 PASS",
     "ticket_created": false
   },

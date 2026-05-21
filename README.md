@@ -351,6 +351,12 @@ The repository includes:
 
 ### 3. Evaluation Output
 
+// FINAL METRIC SUMMARY
+Total Test Cases Run : 10
+Successful Passes    : 10/10
+Tickets Generated    : 1
+System Accuracy Rate : 100.0%
+
 Run:
 
 ```bash
