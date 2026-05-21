@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What's the difference between the Starter and Professional plans?",
+    "expected": "answered",
+    "actual_intent": "normal",
+    "answer": "The Starter plan is priced at $49/month and is suitable for independent agents managing a small portfolio, allowing up to 25 active listings, providing basic AI price prediction (10 predictions per month), priority email support, and access to the mobile agent app. \n\nIn contrast, the Professional plan costs $149/month and is designed for active agents and small agencies. It includes up to 150 active listings, unlimited AI price predictions, AI listing scoring (100 scores per month), advanced analytics, lead routing tools, and 500 wallet credits included monthly, along with priority chat support during business hours.",
+    "status": "\u2705 PASS",
+    "ticket_created": false
+  },
+  {
+    "question": "Can I get a refund if I cancel after 30 days?",
+    "expected": "answered",
+    "actual_intent": "normal",
+    "answer": "No, you cannot get a refund if you cancel after 30 days. Annual plans are non-refundable after 60 days, and for monthly plans, cancellations made after the standard 14-day window are also not eligible for refunds.",
+    "status": "\u2705 PASS",
+    "ticket_created": false
+  },
+  {
+    "question": "Do you support Qatar?",
+    "expected": "not_found",
+    "actual_intent": "normal",
+    "answer": "I don't have enough information to answer that right now. Would you like me to create a support ticket for you?",
+    "status": "\u2705 PASS",
+    "ticket_created": true
+  },
+  {
+    "question": "What's the weather like in Dubai today?",
+    "expected": "out_of_scope",
+    "actual_intent": "out_of_scope",
+    "answer": "That's outside the scope of what I can help with. I'm here to assist with Dwelleo platform-related questions.",
+    "status": "\u2705 PASS",
+    "ticket_created": false
+  },
+  {
+    "question": "How much does the Professional plan cost?",
+    "expected": "answered",
+    "actual_intent": "normal",
+    "answer": "The Professional plan costs $149 per month.",
+    "status": "\u2705 PASS",
+    "ticket_created": false
+  },
+  {
+    "question": "Can I upgrade my plan anytime?",
+    "expected": "answered",
+    "actual_intent": "normal",
+    "answer": "Yes, you can upgrade your plan at any time, with prorated billing applied immediately.",
+    "status": "\u2705 PASS",
+    "ticket_created": false
+  },
+  {
+    "question": "What is included in the Enterprise plan?",
+    "expected": "answered",
+    "actual_intent": "normal",
+    "answer": "The Enterprise plan includes unlimited listings, unlimited AI features, dedicated account management, custom integrations (CRM, ERP), SSO support, and a service-level agreement with a 99.9% uptime guarantee. For a custom quote, you can contact sales@dwelleo.com.",
+    "status": "\u2705 PASS",
+    "ticket_created": false
+  },
+  {
+    "question": "Does the free tier include AI features?",
+    "expected": "answered",
+    "actual_intent": "normal",
+    "answer": "No, the Free tier does not include AI-powered features such as price prediction and listing scoring.",
+    "status": "\u2705 PASS",
+    "ticket_created": false
+  },
+  {
+    "question": "How do I cancel my subscription?",
+    "expected": "answered",
+    "actual_intent": "normal",
+    "answer": "To cancel your subscription, navigate to Settings > Billing > Cancel Subscription. Cancellation is effective at the end of the paid period, and no partial refunds are issued for unused time.",
+    "status": "\u2705 PASS",
+    "ticket_created": false
+  },
+  {
+    "question": "What is the annual billing discount?",
+    "expected": "answered",
+    "actual_intent": "normal",
+    "answer": "The annual billing is available with a 15% discount.",
+    "status": "\u2705 PASS",
+    "ticket_created": false
+  }
+]
